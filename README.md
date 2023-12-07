@@ -6,7 +6,7 @@
 | -------- | --- |
 | *Nama* | Muhammad Iqbal Al Anshori  |
 | *NIM* |  312310659 |
-| *Kelas* | TI.23.A.6 |
+| *Kelas* | TI.23.A6 |
 | *Mata Kuliah* | Bahasa Pemrograman |
 
 # $${\color{blue}PYTHON}$$
