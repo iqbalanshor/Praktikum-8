@@ -24,3 +24,9 @@
 
 # Mengubah Data
 ![gambar](Screenshot/UbahData.png)
+
+# Diagram Class
+![gambar](Screenshot/DiagramKelas.jpg)
+
+# Flowchart
+![gambar](Screenshot/Flowchart.jpg)
