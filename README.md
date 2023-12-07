@@ -17,7 +17,7 @@
 ![gambar](Screenshot/TambahData.png)
 
 # Menampilkan Data
-![gambar](Screenshot/TampilData.png)
+![gambar](Screenshot/LihatData.png)
 
 # Menghapus Data
 ![gambar](Screenshot/HapusData.png)
